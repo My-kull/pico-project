@@ -8,3 +8,4 @@ The project uses MicroPython as it's programming language. No c++ sadly
 
 !!! IMPORTANT !!!
 To make the program work on your own device, remember to change network information and Pico MAC-address in the KubiosHRV.py file.
+You also have to have a Kubios server running on your network.
